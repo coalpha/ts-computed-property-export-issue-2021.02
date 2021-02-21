@@ -1,0 +1,7 @@
+{
+   "compilerOptions": {
+      "outDir": "bin",
+      "declaration": true,
+   },
+   "include": ["src/*.ts"]
+}
