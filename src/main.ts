@@ -1,3 +1,3 @@
 import {https} from "./http_host";
 
-export const microsoft = https("microsoft.com");
+export const tsl = https("www.typescriptlang.org");

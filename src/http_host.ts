@@ -1,4 +1,4 @@
-import { unique_symbol } from "./unique_symbol";
+declare const unique_symbol: unique symbol;
 
 type http_host_t = {[unique_symbol]: "http_host"};
 
